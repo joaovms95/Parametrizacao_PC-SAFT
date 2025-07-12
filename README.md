@@ -1,6 +1,8 @@
-#Os arquivos utilizam correlações da literatura para obter parâmetros da equação de estado PC-SAFT através de diferentes métodos. Os métodos foram implementados como parte da dissertação de mestrado de Silva (2025). Os códigos devem ser usados no software Scilab.
+#Os arquivos utilizam correlações da literatura para obter parâmetros da equação de estado PC-SAFT através de diferentes métodos. Os fluidos modelados são misturas de hidrocarbonetos reportadas por Al-Ajmi (2011). Os métodos foram implementados como parte da dissertação de mestrado de Silva (2025). Os códigos devem ser usados no software Scilab.
 
 #Referências:
+
+#AL-AJMI, Moudi Fahad; TYBJERG, Peter; RASMUSSEN, Claus P.; AZEEM, Jawad. EoS Modeling for Two Major Kuwaiti Oil Reservoirs. All Days, [S.L.], v. -, n. -, p. 1-14, 25 set. 2011. SPE. http://dx.doi.org/10.2118/141241-ms.
 
 #ASSAREH, Mehdi; GHOTBI, Cyrus; TAVAKKOLI, Mohammad; BASHIRI, Gholamreza. PC-SAFT modeling of petroleum reservoir fluid phase behavior using new correlations for petroleum cuts and plus fractions. Fluid Phase Equilibria, [S.L.], v. 408, p. 273-283, jan. 2016. Elsevier BV. http://dx.doi.org/10.1016/j.fluid.2015.10.032.
 
